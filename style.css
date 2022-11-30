@@ -215,11 +215,18 @@ nav {
 
 #main {
     grid-area: main;
+    margin-bottom: 15px;
 }
 
 #footer {
     grid-area: footer;
+    margin-top: -2px;
 }
 
+#footerbeasiswa {
+    grid-area: footer;
+    margin-top: 5px;
+    padding-bottom: 20px;
+}
 
 
